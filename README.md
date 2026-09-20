@@ -6,13 +6,11 @@ Welcome to my repository for lightweight machine learning experiments, algorithm
 
 Each subdirectory is a standalone project containing a clean dataset, interactive VS code Jupyter notebooks, and production-ready Python execution scripts.
 
-*   **`Temperature_Regression_Model`**  
-    *   **Task:** Time-Series Regression Analysis.
-    *   **Core Concepts:** comparing raw linear equations against high-degree polynomial curves, and graphing trends using custom `matplotlib` charts.
-    *   **Tech Stack:** `pandas`, `scikit-learn`, `matplotlib`.
+### 🌡️ Temperature Regression Model
 
-    <img width="1210" height="505" alt="image" src="https://github.com/user-attachments/assets/9090fd76-0d04-4c97-8075-770733f8fdb8" />
+Time-series regression project for temperature prediction using
+polynomial regression and feature engineering.
 
-  
+➡️ [View Temperature Regression Model](./Temperature_Regression_Model/)
 
 

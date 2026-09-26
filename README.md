@@ -8,7 +8,7 @@ Each subdirectory is a standalone project containing a clean dataset, interactiv
     
 
 ### 🔋 Battery SOC Estimation Model
-An educational machine learning project comparing Linear, Exponential, and Logarithmic regression profiles to map battery capacity. Models are compressed into optimized, low-overhead C/C++ scalar formulas ready for embedded TinyML deployment.
+Machine learning project comparing Linear, Exponential, and Logarithmic regression profiles to map battery capacity. Models are compressed into optimized, low-overhead C/C++ scalar formulas ready for embedded TinyML deployment.
 
 ➡️ [View Battery SOC Estimation Model](./Battery_SOC_Estimation/)
 

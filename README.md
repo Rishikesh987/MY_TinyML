@@ -5,7 +5,14 @@ Welcome to my repository for lightweight machine learning experiments, algorithm
 ## 📁 Repository Structure
 
 Each subdirectory is a standalone project containing a clean dataset, interactive VS code Jupyter notebooks, and production-ready Python execution scripts.
+    
 
+### 🔋 Battery SOC Estimation Model
+An educational machine learning project comparing Linear, Exponential, and Logarithmic regression profiles to map battery capacity. Models are compressed into optimized, low-overhead C/C++ scalar formulas ready for embedded TinyML deployment.
+
+➡️ [View Battery SOC Estimation Model](./Battery_SOC_Estimation/)
+
+   
 ### 🌡️ Temperature Regression Model
 
 Time-series regression project for temperature prediction using
